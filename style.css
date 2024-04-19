@@ -1,0 +1,72 @@
+body{
+   background-image: url(image.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.calender{
+    margin: 10% 10%;
+    max-width: 800px;
+    font-family: serif;
+    font-weight: bold;
+    color: black;
+}
+
+.month{
+    text-align: center;
+    background: white;
+    font-size: 80px;
+    letter-spacing: 1px;
+    color: black;
+    border: 4px solid rgb(57, 5, 242);
+    font-family: Elaphant;
+}
+table, th, td{
+    width: 79px;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 27px;
+    border-collapse: collapse;
+    border: 5px solid black;
+    font-family: Elaphant;
+}
+
+tr, td, th{
+    padding: 15px;
+}
+
+
+th{
+ background: #8f09e3;
+ color: white;
+ font-family: Arial black;
+
+}
+th:hover{
+    background-color: aqua;
+}
+
+td{
+    background: #0fd819;
+    color: rgb(231, 12, 45);
+}
+
+td:hover{
+    background-color: rgb(95, 16, 214);
+}
+
+
+.month2{
+    text-align: center;
+    background: white;
+    font-size: 80px;
+    letter-spacing: 1px;
+    color: black;
+    border: 4px solid rgb(59, 227, 78);
+    font-family: Elaphant;
+}
+
+
+
+
+
